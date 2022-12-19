@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #fff;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      width: 500px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .cloud {
+      width: 150px;
+      height: 90px;
+      background-color: #fff;
+      border-radius: 100px;
+      position: relative;
+      animation: float 5s ease-in-out infinite;
+    }
+
+    .cloud:before,
+    .cloud:after {
+      content: '';
+      position: absolute;
+      background-color: #fff;
+      border-radius: 100px;
+    }
+
+    .cloud:before {
+      width: 120px;
+      height: 80px;
+      top: -15px;
+      left: 10px;
+    }
+
+    .cloud:after {
+      width: 100px;
+      height: 100px;
+      top: 15px;
+      right: 20px;
+    }
+
+    @keyframes float {
+      0% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Salvation and Emotional Control</h1>
+    <p>Salvation is the concept of being saved from sin or evil and being brought into a state of eternal happiness or peace. In many religious traditions, salvation is seen as a gift from God or a higher power, and is often achieved through faith, good deeds, or other forms of spiritual practice.</p>
+    <p>One important aspect of achieving salvation is the control of one's own emotions. Emotions can be powerful forces that can drive us to do both good and evil. They can inspire us to act with compassion and kindness, or they can lead us to act out of anger, fear, or greed. In order to achieve salvation, it is important to have control over our emotions and to use them in a positive way.</p>
+    <div class="cloud"></div>
+  </div>
+</body>
+</html>
