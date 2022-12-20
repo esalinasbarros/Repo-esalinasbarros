@@ -16,7 +16,7 @@ Nota: ire actualizando mi repositorio medida que curse mis ramos
 
 Ramos cursados:
 
-- introducción a la programación (IIC1133)
+- Introducción a la programación (IIC1133)
 - Programación Avanzada (IIC2233)
 
 
