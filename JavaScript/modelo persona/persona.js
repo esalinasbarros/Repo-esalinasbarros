@@ -1,4 +1,4 @@
-class Persona {
+export default class Persona {
     constructor(edad, nombre, sexo, altura, x, y, peso) {
         this.edad = edad;
         this.nombre = nombre;
@@ -6,23 +6,36 @@ class Persona {
         this.altura = altura;
         this.posX = x;
         this.posY = y;
-        this.peso = peso
+        this.peso = peso;
     }
-    hablar(texto) {
-        console.log(`${this.nombre}: ${texto}`)
+    hablar(palabras) {
+        console.log(`${this.nombre}: ${palabras}`);
     }
     caminar(x, y) {
-        this.posX += x
-        this.posY += y
-        this.peso -= 0.2
+        this.posX += x;
+        this.posY += y;
+        this.peso -= 0.2;
     }
-    hacerDeporte() {
-        
+    hacerDeporte(deporte, hrs) {
+        calorias = 0;
+        if (deporte == 'cardio') {
+            calorias = 354 * hrs;
+        } else {
+            calorias = 400 * hrs;
+        }
     }
-    comer() {
-
+    comer(comida) {
+        console.log(`${this.nombre} esta comiendo ${comida}`); 
     }
 
 }
+
+
+
+
+
+
+
+
 
 
