@@ -17,7 +17,7 @@ class Persona {
         this.peso -= 0.2
     }
     hacerDeporte() {
-
+        
     }
     comer() {
 

@@ -12,3 +12,10 @@ frontside flip
 power flip
 backside 360
 frontside 360
+gazzele flip
+hardflip
+stormflip
+ollie late flip
+backside late flip
+half cab
+frontside half cab
