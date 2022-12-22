@@ -1,4 +1,3 @@
-
 class Persona {
     constructor(edad, nombre, sexo, altura, x, y, peso) {
         this.edad = edad;
@@ -9,13 +8,19 @@ class Persona {
         this.posY = y;
         this.peso = peso
     }
-    hablar() {
-        console.log(`${this.nombre} esta hablando`)
+    hablar(texto) {
+        console.log(`${this.nombre}: ${texto}`)
     }
     caminar(x, y) {
         this.posX += x
         this.posY += y
         this.peso -= 0.2
+    }
+    hacerDeporte() {
+
+    }
+    comer() {
+
     }
 
 }
