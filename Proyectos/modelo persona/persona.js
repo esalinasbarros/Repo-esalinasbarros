@@ -51,3 +51,5 @@ let edo = new Skater(["flip", "ollie"], "pill", 8.25)
 
 
 
+
+
