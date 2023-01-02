@@ -1,11 +1,9 @@
 from tomemos import Tomemos
 from jugadores import Jugador
-from nuncanunca import YoNuncaNunca
-from piramide.piramide import Piramide
-if __name__ == 'main':
+print(__name__)
+if __name__ == '__main__':
     numero_jugadores = int(input())
     lista_jugadores = []
-    lista_juegos = [YoNuncaNunca(), Piramide()]
     for i in range(numero_jugadores):
         lista_jugadores.append(Jugador(input()))
-    juego = Tomemos(lista_jugadores, lista_juegos)
+    juego = Tomemos(lista_jugadores)
