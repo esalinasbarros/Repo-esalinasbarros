@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-# Mis-codigos
-
-$1$. ```Python```
-$2$. ```SQL```
-$3$. ```HTML```
-$4$. ```C##```
-$5$. ```C++```
-$6$. ```LaTeX```
-
-
-$Ramos cursados:$
-
-- $Introducción a la programación (IIC1133)$
-- $Programación Avanzada (IIC2233)$
-=======
 # Lenguajes utilizados
->>>>>>> 2cd994031a208e1ce2b1230d0cd629dcf018a1f2
 
 <table>
     <tr>
