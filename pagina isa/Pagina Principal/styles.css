@@ -158,7 +158,7 @@ ul div a {
     display: block;
 }
 
-
-.icono-busqueda {
-    color: white;
+.texto-busqueda {
+    color: #ddd;
+    padding-bottom: 10px;
 }
