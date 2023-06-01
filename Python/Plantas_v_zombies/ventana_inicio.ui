@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>554</width>
+    <height>580</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-1</x>
+     <y>-5</y>
+     <width>561</width>
+     <height>591</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../../../Programación avanzada/esalinasbarros-iic2233-2022-2/Tareas/T2/sprites/Fondos/fondoMenu.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>109</x>
+     <y>55</y>
+     <width>321</width>
+     <height>211</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../../../Programación avanzada/esalinasbarros-iic2233-2022-2/Tareas/T2/sprites/Elementos de juego/logo.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>330</y>
+     <width>71</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 18pt &quot;.AppleSystemUIFont&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Usuario:</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="label_usuario_edit">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>330</y>
+     <width>113</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="boton_iniciar">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>410</y>
+     <width>113</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(88, 237, 92);
+font: 18pt &quot;.AppleSystemUIFont&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Iniciar</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="boton_ranking">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>410</y>
+     <width>113</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(88, 237, 92);
+font: 18pt &quot;.AppleSystemUIFont&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Ranking</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="boton_salir">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>410</y>
+     <width>113</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(88, 237, 92);
+font: 18pt &quot;.AppleSystemUIFont&quot;;
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Salir</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

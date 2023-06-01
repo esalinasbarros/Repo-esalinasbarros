@@ -1,0 +1,5 @@
+{  
+    "HOST": "localhost",
+    "PORT": 42068,
+    "CUENTA_REGRESIVA_INICIO": 15    
+} 

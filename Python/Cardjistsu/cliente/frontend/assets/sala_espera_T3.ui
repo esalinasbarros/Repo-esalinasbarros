@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>783</width>
+    <height>518</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-1</x>
+     <y>-5</y>
+     <width>781</width>
+     <height>521</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../sprites/background/index1.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_boton_volver">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>440</y>
+     <width>181</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="mouseTracking">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../sprites/background/back_button.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>70</y>
+     <width>611</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(0, 0, 0, 130);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="buddy">
+    <cstring></cstring>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_jugador_1">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>160</y>
+     <width>191</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(246, 246, 246);
+color: rgb(0, 0, 0);
+font: 75 30pt &quot;Helvetica&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Jugador 1</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_jugador_2">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>160</y>
+     <width>191</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(246, 246, 246);
+color: rgb(0, 0, 0);
+font: 75 30pt &quot;Helvetica&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Jugador 2</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_timer">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>90</y>
+     <width>91</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 36pt &quot;Skia&quot;;</string>
+   </property>
+   <property name="text">
+    <string>0</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="boton_iniciar">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>450</y>
+     <width>171</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 26pt &quot;Futura&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(255, 34, 74);</string>
+   </property>
+   <property name="text">
+    <string>Iniciar</string>
+   </property>
+  </widget>
+  <zorder>label</zorder>
+  <zorder>label_boton_volver</zorder>
+  <zorder>label_2</zorder>
+  <zorder>label_jugador_2</zorder>
+  <zorder>label_jugador_1</zorder>
+  <zorder>label_timer</zorder>
+  <zorder>boton_iniciar</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

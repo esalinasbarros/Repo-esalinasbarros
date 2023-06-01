@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>609</width>
+    <height>646</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-1</x>
+     <y>-5</y>
+     <width>611</width>
+     <height>651</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>sprites/Fondos/fondoMenu.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>50</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 24pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Resumen Ronda</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>50</y>
+     <width>61</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>sprites/Elementos de juego/sol.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>170</y>
+     <width>171</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>160</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Ronda actual</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_ronda_actual">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>160</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>0</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>220</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Soles Restantes</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_8">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>280</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Zombies destruidos</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_9">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>340</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Puntaje Ronda</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_10">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>400</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Puntaje Total</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_soles_restantes">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>220</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>0</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_zombies_destruidos">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>280</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>0</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_puntaje_ronda">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>340</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>0</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_puntaje_total">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>400</y>
+     <width>201</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>0</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_status">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>480</y>
+     <width>481</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(65, 253, 58);
+font: 20pt &quot;.AppleSystemUIFont&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Puedes pasar de ronda!</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="boton_siguiente_ronda">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>570</y>
+     <width>131</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 255, 94);</string>
+   </property>
+   <property name="text">
+    <string>Siguiente ronda</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="boton_salir">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>570</y>
+     <width>131</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 255, 94);
+</string>
+   </property>
+   <property name="text">
+    <string>Salir</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

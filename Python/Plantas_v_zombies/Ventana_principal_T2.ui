@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>VentanaPrincipal</class>
+ <widget class="QMainWindow" name="VentanaPrincipal">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>826</width>
+    <height>634</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="VentanaPrincipal_2">
+   <widget class="QLabel" name="label_titulo_ventana_principal">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>40</y>
+      <width>271</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 20pt &quot;.AppleSystemUIFont&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Elige el ambiente del juego</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="foto_background">
+    <property name="geometry">
+     <rect>
+      <x>-60</x>
+      <y>-40</y>
+      <width>921</width>
+      <height>631</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../../../../Programación avanzada/esalinasbarros-iic2233-2022-2/Tareas/T2/sprites/Fondos/fondoMenu.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_fondo_dia">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>120</y>
+      <width>341</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../../../../Programación avanzada/esalinasbarros-iic2233-2022-2/Tareas/T2/sprites/Fondos/jardinAbuela.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_fondo_diurno">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>120</y>
+      <width>331</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../../../../Programación avanzada/esalinasbarros-iic2233-2022-2/Tareas/T2/sprites/Fondos/salidaNocturna.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="boton_jardin_de_abuela">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>410</y>
+      <width>141</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(28, 215, 8);
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Jardin de la abuela</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="boton_salida_ncturna">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>410</y>
+      <width>141</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(28, 215, 8);
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Salida nocturna</string>
+    </property>
+   </widget>
+   <zorder>foto_background</zorder>
+   <zorder>label_titulo_ventana_principal</zorder>
+   <zorder>label_fondo_dia</zorder>
+   <zorder>label_fondo_diurno</zorder>
+   <zorder>boton_jardin_de_abuela</zorder>
+   <zorder>boton_salida_ncturna</zorder>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>826</width>
+     <height>24</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
