@@ -42,3 +42,6 @@ $Ramos\ cursados:$
 - $Ingenieria\ de\ software\ (IIC2143)$
 - $Bases\ de\ datos\ (IIC2413)$
 
+$Frameworks\ utilizados$
+- $Ruby on Rails$
+
