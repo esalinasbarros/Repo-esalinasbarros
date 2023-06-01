@@ -35,6 +35,7 @@
     </tr>
 </table>
 
+
 $Ramos\ cursados:$
 
 - $Introducción\ a\ la\ programación\ (IIC1133)$
@@ -43,5 +44,5 @@ $Ramos\ cursados:$
 - $Bases\ de\ datos\ (IIC2413)$
 
 $Frameworks\ utilizados$
-- $Ruby\ on\ Rails$
+- $Ruby\ on\ Rails(RoR)$
 
