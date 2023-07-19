@@ -43,6 +43,11 @@ $Ramos\ cursados:$
 - $Ingenieria\ de\ software\ (IIC2143)$
 - $Bases\ de\ datos\ (IIC2413)$
 
+$Ramos\ en\ curso:$
+
+- $Inteligencia\ artificial\ (IIC2613)$
+- $Matematicas\ discretas\ (IIC1253)$
+
 $Frameworks\ utilizados$
 - $Ruby\ on\ Rails(RoR)$
 
