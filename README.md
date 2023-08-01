@@ -1,6 +1,10 @@
 # Lenguajes aprendidos
 
-<strong>Ingenieria civil industrial computatación con major en ingenieria de software y minor en ciencias de datos
+<strong>Este README se usara para informar sobre la situacion actual de mi carrera
+
+<strong>Todos los cursos escritos en este documento son dictados por la universidad católica de chile por la siguiente carrera:
+
+Ingenieria civil industrial con major en ingenieria de software y minor en ciencias de datos
 
 <table>
     <tr>
@@ -54,5 +58,5 @@ $Ramos\ en\ curso:$
 
 $Frameworks\ utilizados$
 
-- $Ruby\ on\ Rails(RoR)$
+- $Ruby\ on\ Rails\ (RoR)$
 
