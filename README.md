@@ -2,7 +2,7 @@
 
 <strong>Este README se usara para informar sobre la situacion actual de mi carrera
 
-<strong>Todos los cursos escritos en este documento son dictados por la universidad católica de chile por la siguiente carrera:
+<strong>Todos los cursos escritos en este documento son dictados por la universidad católica de chile a traves de la siguiente carrera:
 
 Ingenieria civil industrial con major en ingenieria de software y minor en ciencias de datos
 
