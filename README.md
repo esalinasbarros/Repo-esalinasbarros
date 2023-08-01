@@ -47,7 +47,8 @@ $Ramos\ en\ curso:$
 
 - $Tecnologias\ y\ aplicaciones\ web\ (IIC2513)$
 - $Matematicas\ discretas\ (IIC1253)$
-- $Computacion:\ Ciencia\ y\ Tecnología\ del\ Mundo\ Digital$
+- $Computacion:\ Ciencia\ y\ Tecnología\ del\ Mundo\ Digital\ (IIC1005)$
+- $Sistemas\ de\ información\ (IIC2713)$
 
 $Frameworks\ utilizados$
 - $Ruby\ on\ Rails(RoR)$
