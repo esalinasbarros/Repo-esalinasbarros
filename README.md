@@ -44,7 +44,7 @@ Ingenieria civil industrial con major en ingenieria de software y minor en cienc
 
 $Ramos\ cursados:$
 
-- $Introducción\ a\ la\ programación\ (IIC1133)$
+- $Introducción\ a\ la\ programación\ (IIC1103)$
 - $Programación\ Avanzada\ (IIC2233)$
 - $Ingenieria\ de\ software\ (IIC2143)$
 - $Bases\ de\ datos\ (IIC2413)$
