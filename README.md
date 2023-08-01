@@ -23,7 +23,7 @@
     </tr>
     <tr>
          <td>LaTeX</td>
-         <td><code>Nil<\code></td>
+         <td><code>Nil</td>
     </tr>
     <tr>
          <td>R</td>
