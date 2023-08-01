@@ -1,6 +1,6 @@
 # Lenguajes aprendidos
 
-<strong>Ingenieria civil industrial computatación con major en ingenieria de software y minor en ciencias de datos<\strong>
+<strong>Ingenieria civil industrial computatación con major en ingenieria de software y minor en ciencias de datos
 
 <table>
     <tr>
@@ -12,7 +12,7 @@
         <td>2</td>
     </tr>
     <tr>
-        <td>SQL</td>
+        <td>PostgreSQL</td>
         <td>1</td>
     </tr>
     <tr>
