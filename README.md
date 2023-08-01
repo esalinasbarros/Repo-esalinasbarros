@@ -1,4 +1,4 @@
-# Lenguajes aprendidos
+# Curriculum
 
 <strong>Este README se usara para informar sobre la situacion actual de mi carrera
 
