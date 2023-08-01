@@ -1,4 +1,4 @@
-# Lenguajes utilizados
+# Lenguajes aprendidos
 
 <table>
     <tr>
@@ -45,8 +45,9 @@ $Ramos\ cursados:$
 
 $Ramos\ en\ curso:$
 
-- $Inteligencia\ artificial\ (IIC2613)$
+- $Tecnologias\ y\ aplicaciones\ web\ (IIC2513)$
 - $Matematicas\ discretas\ (IIC1253)$
+- $Computacion:\ Ciencia\ y\ Tecnología\ del\ Mundo\ Digital$
 
 $Frameworks\ utilizados$
 - $Ruby\ on\ Rails(RoR)$
