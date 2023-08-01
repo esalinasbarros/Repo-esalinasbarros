@@ -1,5 +1,7 @@
 # Lenguajes aprendidos
 
+<strong>Ingenieria civil industrial computatación con major en ingenieria de software y minor en ciencias de datos<\strong>
+
 <table>
     <tr>
         <th>Lenguaje</th>
