@@ -27,7 +27,7 @@ En el caso de no tener instalado pip, sigue los siguientes pasos:
    pip --version
    </pre>
 
-`Codigo sacado de este [link](https://www.solvetic.com/tutoriales/article/9492-como-instalar-pip-en-mac/)`
+Codigo sacado de este [link](https://www.solvetic.com/tutoriales/article/9492-como-instalar-pip-en-mac/)
 
 ## Nota
 En caso de estar utilizando un computador con Apple silicon deberas seguir el siguiente [tutorial](https://support.apple.com/es-cl/HT211861) para habilitar rosetta en tu computador
