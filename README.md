@@ -4,9 +4,9 @@
 
 <strong>Este README se usara para informar sobre la situacion actual de mi carrera
 
-Todos los cursos escritos en este documento son dictados por la universidad católica de chile a traves de la siguiente carrera:
+Todos los cursos escritos en este documento son dictados por la universidad católica de chile a traves de la siguiente carrera:</strong>
 
-Ingenieria civil industrial con major en ingenieria de software y minor en ciencias de datos</strong>
+   Ingenieria civil industrial con major en ingenieria de software y minor en ciencias de datos
 
 ## Instrucciones para isntalar dependecias
 Para correr los proyectos de python sera necesario correr los siguientes comando en tu termianal:
