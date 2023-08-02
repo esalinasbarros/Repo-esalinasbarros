@@ -97,7 +97,7 @@ Ramos en curso:
 - Computación: Ciencia y Tecnología del Mundo Digital (IIC1005)
 - Sistemas de información (IIC2713)
 
-Frameworks utilizados
+Frameworks utilizados:
 
 - Ruby on Rails (RoR)
 
