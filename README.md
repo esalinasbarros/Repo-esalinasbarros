@@ -83,23 +83,23 @@ y poder correr los comandos anteriores.
 </table>
 
 
-$Ramos\ cursados:$
+Ramos cursados:
 
-- $Introducción\ a\ la\ programación\ (IIC1103)$
-- $Programación\ Avanzada\ (IIC2233)$
-- $Ingenieria\ de\ software\ (IIC2143)$
-- $Bases\ de\ datos\ (IIC2413)$
+- Introducción a la programación (IIC1103)
+- Programación Avanzada (IIC2233)
+- Ingenieria de software (IIC2143)
+- Bases de datos (IIC2413)
 
-$Ramos\ en\ curso:$
+Ramos en curso:
 
-- $Tecnologias\ y\ aplicaciones\ web\ (IIC2513)$
-- $Matematicas\ discretas\ (IIC1253)$
-- $Computación:\ Ciencia\ y\ Tecnología\ del\ Mundo\ Digital\ (IIC1005)$
-- $Sistemas\ de\ información\ (IIC2713)$
+- Tecnologias y aplicaciones web (IIC2513)
+- Matematicas discretas (IIC1253)
+- Computación: Ciencia y Tecnología del Mundo Digital (IIC1005)
+- Sistemas de información (IIC2713)
 
-$Frameworks\ utilizados$
+Frameworks utilizados
 
-- $Ruby\ on\ Rails\ (RoR)$
+- Ruby on Rails (RoR)
 
 ## Contacto
 
