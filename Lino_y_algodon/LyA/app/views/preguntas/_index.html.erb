@@ -1,0 +1,10 @@
+<div>
+    <% if @producto.preguntas.any?%>
+      <%@producto.preguntas.each do |pregunta|%>
+        <div>
+        <%= pregunta.texto%>
+        </div>
+        <%form_with%>
+      <%end%>
+    <%end%>  
+</div>
