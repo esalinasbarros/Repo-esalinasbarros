@@ -6,10 +6,11 @@
 
 Todos los cursos escritos en este documento son dictados por la universidad católica de chile a traves de la siguiente carrera:</strong>
 
-   Ingenieria civil industrial con major en ingenieria de software y minor en ciencias de datos
+Ingenieria civil industrial con major en ingenieria de software y minor en ciencias de datos
 
-## Instrucciones para isntalar dependecias
-Para correr los proyectos de python sera necesario correr los siguientes comando en tu termianal:
+## Instrucciones para instalar dependecias
+
+Para correr los proyectos de python sera necesario utilizar los siguientes comando en tu termianal:
 
 <pre>
 pip install PyQt5
@@ -30,9 +31,10 @@ En el caso de no tener instalado pip, sigue los siguientes pasos:
    pip --version
    </pre>
 
-Codigo sacado de este [link](https://www.solvetic.com/tutoriales/article/9492-como-instalar-pip-en-mac/)
+Codigo sacado de [link](https://www.solvetic.com/tutoriales/article/9492-como-instalar-pip-en-mac/)
 
 ### Nota
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 En caso de estar utilizando un computador con Apple silicon deberas seguir el siguiente [tutorial](https://support.apple.com/es-cl/HT211861) para habilitar rosetta en tu computador
 y poder correr los siguientes comandos.
