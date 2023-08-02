@@ -2,9 +2,42 @@
 
 <strong>Este README se usara para informar sobre la situacion actual de mi carrera
 
-<strong>Todos los cursos escritos en este documento son dictados por la universidad católica de chile a traves de la siguiente carrera:
+Todos los cursos escritos en este documento son dictados por la universidad católica de chile a traves de la siguiente carrera:
 
-Ingenieria civil industrial con major en ingenieria de software y minor en ciencias de datos
+Ingenieria civil industrial con major en ingenieria de software y minor en ciencias de datos</strong>
+
+Para correr los proyectos de python sera necesario correr los siguientes comando en tu termianal:
+
+<pre>
+```
+pip install PyQt5
+```
+</pre>
+
+En el caso de no tener instalado pip, sigue los siguientes pasos:
+
+1. En la consola o terminal copia y pega lo siguiente:
+   <pre>
+   ```
+   curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   ```
+   </pre>
+2. luego copia y pega lo siguiente:
+   <pre>
+   ```
+   python3 get-pip.py
+   ```
+   </pre>
+3. Para verificar que el software se instalo correctamente copia y pega lo siguiente:
+   <pre>
+   ```
+   pip --version
+   ```
+   </pre>
+
+## Nota
+En caso de estar utilizando un computador con Apple silicon deberas seguir el siguiente [tutorial](https://support.apple.com/es-cl/HT211861) para habilitar rosetta en tu computador
+y poder correr los siguientes comandos.
 
 <table>
     <tr>
@@ -38,6 +71,10 @@ Ingenieria civil industrial con major en ingenieria de software y minor en cienc
     <tr>
          <td>Ruby (on rails)</td>
          <td>1</td>
+    </tr>
+    <tr>
+         <td>JavaScript</td>
+         <td><code>Nil</td>
     </tr>
 </table>
 
