@@ -9,30 +9,22 @@ Ingenieria civil industrial con major en ingenieria de software y minor en cienc
 Para correr los proyectos de python sera necesario correr los siguientes comando en tu termianal:
 
 <pre>
-```
 pip install PyQt5
-```
 </pre>
 
 En el caso de no tener instalado pip, sigue los siguientes pasos:
 
 1. En la consola o terminal copia y pega lo siguiente:
    <pre>
-   ```
    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-   ```
    </pre>
 2. luego copia y pega lo siguiente:
    <pre>
-   ```
    python3 get-pip.py
-   ```
    </pre>
 3. Para verificar que el software se instalo correctamente copia y pega lo siguiente:
    <pre>
-   ```
    pip --version
-   ```
    </pre>
 
 ## Nota
