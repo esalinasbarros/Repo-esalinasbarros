@@ -1,4 +1,4 @@
-# Curriculum
+# Información mia
 
 ## Resumen
 
@@ -37,7 +37,7 @@ Codigo sacado de [link](https://www.solvetic.com/tutoriales/article/9492-como-in
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 En caso de estar utilizando un computador con Apple silicon deberas seguir el siguiente [tutorial](https://support.apple.com/es-cl/HT211861) para habilitar rosetta en tu computador
-y poder correr los siguientes comandos.
+y poder correr los comandos anteriores.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -101,3 +101,6 @@ $Frameworks\ utilizados$
 
 - $Ruby\ on\ Rails\ (RoR)$
 
+## Contacto
+
+cualquier duda podras contactarme mediante mi mail academico esalinasbarros@uc.cl
