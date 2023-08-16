@@ -1,0 +1,99 @@
+body{
+    background-color: #edd266;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    padding: 10px;
+}
+.wapper{
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 0px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.nota-y-p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+input{
+    border-radius: 5px;
+    border: 2px solid #000000;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    text-align: center;
+}
+
+button{
+    border-radius: 5px;
+    border: 2px solid #000000;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    width: 100px;
+    height: fit-content;
+    transition: width 0.1s;
+}
+
+button:hover{
+    background-color: #edd266;
+    color: #000000;
+    border: 2px solid #edd266;
+    width: 150px;
+}
+
+button:active{
+    background-color: #f6ecc2;
+    color: #000000;
+    border: 2px solid #edd266;
+    width: 150px;
+}
+
+.nota-total{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 900;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.trans{
+    opacity: 1;
+    transition: opacity 0.3s ease-in;
+}
+
+.notice{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+
