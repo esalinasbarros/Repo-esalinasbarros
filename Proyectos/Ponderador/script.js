@@ -20,18 +20,16 @@ document.addEventListener('DOMContentLoaded', function () {
         const elementos = document.querySelectorAll('.nota-y-p');
         const notas = [];
         const notaAprobacion = document.querySelector('#nota-aprobacion').value;
-        if (notaAprobacion === NaN) {
+        if (notaAprobacion == 'NaN') {
             notaAprobacion = 40;
         }
         let suma = 0;
-        elementos.forEach(elemento => {
-            //const nota = parseInt(document.querySelector(`#${elemento.id} input[type="text"]`).value);
-            const nota = parseInt(document.querySelector(`#nota${elemento.id + 1}`).value);
-            const porcentaje = parseInt(document.querySelector(`#porcentaje${elemento.id + 1}`).value);
+        for (let i = 0; i < elementos.length; i++) {
+            const nota = parseInt(document.querySelector(`#nota${i + 1}`).value);
+            const porcentaje = parseInt(document.querySelector(`#porcentaje${i + 1}`).value);
             const notaPonderada = nota * (porcentaje / 100);
             notas.push(notaPonderada);
-        });
-        //const suma = notas.reduce((a, b) => a + b, 0);
+        }
         console.log(notas);
         for (let i = 0; i < notas.length; i++) {
            suma += notas[i];
