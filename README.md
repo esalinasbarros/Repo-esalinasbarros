@@ -66,7 +66,7 @@ y poder correr los comandos anteriores.
     </tr>
     <tr>
          <td>LaTeX</td>
-         <td><code>1</td>
+         <td>1</td>
     </tr>
     <tr>
          <td>R</td>
@@ -78,7 +78,7 @@ y poder correr los comandos anteriores.
     </tr>
     <tr>
          <td>JavaScript</td>
-         <td><code>1</td>
+         <td>1</td>
     </tr>
 </table>
 
@@ -102,13 +102,18 @@ Ramos en curso:
 
 Ayudantias realizadas:
 
-- Tecnologías y aplicaciones web
+- Tecnologías y aplicaciones web (IIC2513)
 
 Frameworks utilizados:
 
 - Ruby on Rails (RoR)
 - Node.js
 - React
+- FastAPI
+
+Competencias adicionales:
+
+- Miembro OSUC (Open Source UC)
 
 ## Contacto
 
