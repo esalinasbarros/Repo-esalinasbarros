@@ -61,12 +61,12 @@ y poder correr los comandos anteriores.
         <td>1</td>
     </tr>
     <tr>
-         <td>C++</td>
+         <td>C</td>
          <td>1</td>
     </tr>
     <tr>
          <td>LaTeX</td>
-         <td><code>Nil</td>
+         <td><code>1</td>
     </tr>
     <tr>
          <td>R</td>
@@ -78,7 +78,7 @@ y poder correr los comandos anteriores.
     </tr>
     <tr>
          <td>JavaScript</td>
-         <td><code>Nil</td>
+         <td><code>1</td>
     </tr>
 </table>
 
@@ -89,17 +89,26 @@ Ramos cursados:
 - Programación Avanzada (IIC2233)
 - Ingenieria de software (IIC2143)
 - Bases de datos (IIC2413)
-
-Ramos en curso:
-
 - Tecnologias y aplicaciones web (IIC2513)
 - Matematicas discretas (IIC1253)
 - Computación: Ciencia y Tecnología del Mundo Digital (IIC1005)
 - Sistemas de información (IIC2713)
 
+Ramos en curso:
+
+- Estructuras de datos y algoritmos
+- Mineria de datos
+- Inteligencia Artificial
+
+Ayudantias realizadas:
+
+- Tecnologías y aplicaciones web
+
 Frameworks utilizados:
 
 - Ruby on Rails (RoR)
+- Node.js
+- React
 
 ## Contacto
 
