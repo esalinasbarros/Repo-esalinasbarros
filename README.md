@@ -93,12 +93,16 @@ Ramos cursados:
 - Matematicas discretas (IIC1253)
 - Computación: Ciencia y Tecnología del Mundo Digital (IIC1005)
 - Sistemas de información (IIC2713)
+- Estructuras de datos y algoritmos (IIC2133)
+- Mineria de datos (IIC2433)
+- Inteligencia artificial (IIC2613)
 
 Ramos en curso:
 
-- Estructuras de datos y algoritmos
-- Mineria de datos
-- Inteligencia Artificial
+- Visualización de la informacion (IIC2026)
+- Deseño detallado de software (IIC2113)
+- Sistemas Recomendadores (IIC3633)
+- Arquitectura de sistemas de software (IIC2173)
 
 Ayudantias realizadas:
 
@@ -108,8 +112,9 @@ Frameworks utilizados:
 
 - Ruby on Rails (RoR)
 - Node.js
-- React
+- React/React-native
 - FastAPI
+- Sequelize.js
 
 Competencias adicionales:
 
